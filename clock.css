@@ -1,0 +1,31 @@
+html,body{
+    background-image: url("https://t4.ftcdn.net/jpg/01/26/83/63/360_F_126836354_83QSwGzlgcDLvHxJrCEKgcEcQsHRC7sA.jpg");
+    background-size: cover;
+    margin: 0;
+    width: 100%;
+}
+.main-container{
+ width: 100%;
+ height: 1080px;
+ position: relative;
+}
+h1{
+    width: 100%;
+    margin-top: 15%;
+    position: absolute;
+    font-size: 8vw;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(75, 24, 243);
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 5px;
+}
+#clock{
+    width: 100%;
+    position: absolute;
+    font-size: 9vw;
+    color: rgb(101, 22, 4);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 25%;
+}
